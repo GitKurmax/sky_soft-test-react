@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/sky_soft-test-react/static/js/main.b7d9c11a.chunk.js",
+    "main.js.map": "/sky_soft-test-react/static/js/main.b7d9c11a.chunk.js.map",
+    "runtime~main.js": "/sky_soft-test-react/static/js/runtime~main.ed7f457b.js",
+    "runtime~main.js.map": "/sky_soft-test-react/static/js/runtime~main.ed7f457b.js.map",
+    "static/js/2.f9075ab4.chunk.js": "/sky_soft-test-react/static/js/2.f9075ab4.chunk.js",
+    "static/js/2.f9075ab4.chunk.js.map": "/sky_soft-test-react/static/js/2.f9075ab4.chunk.js.map",
+    "index.html": "/sky_soft-test-react/index.html",
+    "precache-manifest.9118e0f1e1bfd482754b4bd4d0828ccd.js": "/sky_soft-test-react/precache-manifest.9118e0f1e1bfd482754b4bd4d0828ccd.js",
+    "service-worker.js": "/sky_soft-test-react/service-worker.js"
+  }
+}
